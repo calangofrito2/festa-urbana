@@ -1,2 +1,11 @@
-# festa-urbana
-trabalhando para comprar meu grande sonho 
+Boas vindas ao meu perfil 💙💙
+
+meu nome é Luan Rodrigues
+
+Estou estudando na Alura
+Estou me desenvolvendo na linguagem JavaScript
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+
+Você pode entrar em contato comigo 📫
+luanrodriguesdecampos3@gmail.com
+
